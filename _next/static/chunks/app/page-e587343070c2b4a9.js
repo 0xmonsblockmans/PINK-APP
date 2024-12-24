@@ -114,7 +114,7 @@
                         e.preventDefault(), window.open("https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon", "_blank")
                     },
                     c = e => {
-                        e.preventDefault(), window.open("https://dapp.hashai.co.uk/", "_blank")
+                        e.preventDefault(), window.open("https://pinkai.vercel.app/", "_blank")
                     };
                 return (0, t.jsxs)("header", {
                     className: "header  sticky-top bg-".concat(!0 == e ? "white" : "black", " ").concat(s ? "expanded" : "collapsed"),
@@ -1117,7 +1117,7 @@
                                                 "data-aos": "fade-up",
                                                 children: "Begin your investment journey with us and experience the power and profits of AI mining."
                                             }), (0, t.jsx)(o.default, {
-                                                href: "https://dapp.hashai.co.uk/",
+                                                href: "https://pinkai.vercel.app/",
                                                 target: "_blank",
                                                 children: (0, t.jsx)("button", {
                                                     className: "text-".concat(!0 == u ? "white" : "black", " custom-btn orbitron-txt"),
