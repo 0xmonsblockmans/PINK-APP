@@ -1087,7 +1087,7 @@
                                                     children: "The potential applications are limited only by your imagination."
                                                 })]
                                             }), (0, t.jsx)(o.default, {
-                                                href: "/hardware",
+                                                href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
                                                 children: (0, t.jsx)("button", {
                                                     className: "text-".concat(!0 == u ? "white" : "black", " custom-btn orbitron-txt"),
                                                     children: "Buy Rig"
