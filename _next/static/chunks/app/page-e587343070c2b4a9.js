@@ -619,7 +619,7 @@
                                                     target: "_blank",
                                                     children: (0, t.jsx)("button", {
                                                         className: "text-".concat(u ? "white" : "black", " custom-btn position-relative white-paper-btn"),
-                                                        children: "Litepaper Pro"
+                                                        children: "Doc"
                                                     })
                                                 })
                                             })]
@@ -885,13 +885,6 @@
                                         className: "node-renal-cta-sec-register-txt my-1",
                                         "data-aos": "fade-up",
                                         children: "Register Your Interest Today."
-                                    }), (0, t.jsx)(o.default, {
-                                        href: "/node-rental-form",
-                                        children: (0, t.jsx)("button", {
-                                            className: "my-4 text-".concat(!0 == u ? "white" : "black", " custom-btn orbitron-txt find-out-more-btn"),
-                                            "data-aos": "fade-up",
-                                            children: "Find Out More"
-                                        })
                                     })]
                                 })
                             })
