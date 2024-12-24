@@ -615,7 +615,7 @@
                                                 "data-aos": "fade-up",
                                                 "data-aos-duration": "1000",
                                                 children: (0, t.jsx)(o.default, {
-                                                    href: "".concat("https://hashai.s3.eu-west-2.amazonaws.com/storage/pdf/hashai_litepaper_pro.pdf"),
+                                                    href: "".concat("https://olivers-organization-20.gitbook.io/untitled-1"),
                                                     target: "_blank",
                                                     children: (0, t.jsx)("button", {
                                                         className: "text-".concat(u ? "white" : "black", " custom-btn position-relative white-paper-btn"),
